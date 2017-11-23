@@ -1,0 +1,29 @@
+{
+  "name": "site-z",
+  "version": "1.0.0",
+  "description": "hnc website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtindo/site-z.git"
+  },
+  "author": "GUEKENG TINDO Yvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtindo/site-z/issues"
+  },
+  "homepage": "https://github.com/gtindo/site-z#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "nodemon": "^1.12.1",
+    "pg": "^7.4.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.22.6"
+  }
+}
